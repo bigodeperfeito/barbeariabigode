@@ -10,7 +10,7 @@ body{
 
 /*CUSTOMIZACAO DA DIV PRINCIPAL */
 .principal{
-    background-color: magenta;
+    background-color: rgb(146, 140, 126);
     padding: 30px;
     margin: 0px;
 }
@@ -18,7 +18,7 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: brown;
+    color: rgb(255, 255, 255);
     background-color: rgb(146, 140, 126);
     padding: 50px;
     margin: 0px;
