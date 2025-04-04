@@ -8,6 +8,13 @@ body{
     width: 100%;
 }
 
+/*CUSTOMIZACAO DA DIV PRINCIPAL */
+.principal{
+    background-color: magenta;
+    padding: 30px;
+    margin: 0px;
+}
+
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
@@ -21,16 +28,9 @@ body{
     color: mediumaquamarine;
     font-family: Arial, Helvetica, sans-serif;
 }
-.principal{
-    background-color: magenta;
-    padding: 30px;
-    margin: 0px;
-}
 
 
-
-
-
+/*ESTILIZACAO DA DIV BENEFICIOS */
 .beneficios{
     background-color: red;
     padding: 30px;
@@ -44,10 +44,10 @@ ul{
     margin-right: 15%;
 }
 
-.itens{
+.itens{ /*ITENS DA LISTA - CADA BOLINHA*/
     font-style: italic;
 }
 
-.imagembeneficios{
+.imagembeneficios{ /*IMAGEM DO HOMEM BARBUDO*/
     width: 50%;
 }
