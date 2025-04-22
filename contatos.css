@@ -1,4 +1,18 @@
 fieldset{
     margin: 10px;
-    padding: ;
+    padding: 20px;
+    width: 800px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(146,140, 126 );
+}
+
+body{
+    background-color: rgb(243, 243, 241);
+}
+
+button{
+    border-radius: 700px;
 }
